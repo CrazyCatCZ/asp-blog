@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Clanky\" />
+    <Folder Include="Views\NewFolder\" />
+  </ItemGroup>
+
 </Project>
